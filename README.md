@@ -1,1 +1,1 @@
-# kendoui-study
+### KendoUI 开发教程总结
